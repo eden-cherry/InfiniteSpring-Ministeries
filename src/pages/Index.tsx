@@ -59,7 +59,7 @@ const Index = () => {
                   <Button
                     size="lg"
                     variant="outline"
-                    className="border-primary-foreground/30 text-primary-gradient-hero hover:bg-primary-foreground/10 text-lg px-8 py-6 backdrop-blur-sm"
+                    className="border-primary-foreground/30 text-primary hover:bg-primary-foreground/10 text-lg px-8 py-6 backdrop-blur-sm"
                   >
                     Watch Sermons
                   </Button>
